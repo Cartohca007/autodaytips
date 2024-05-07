@@ -1,4 +1,4 @@
-#Adding a new task:
+# Adding a new task:
 o To add a new task, select the appropriate option in the
 menu or use hotkeys.
 # Fill in the required task information:
