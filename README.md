@@ -1,3 +1,10 @@
+# WARNING!
+``This version of the program can be run on local host!``
+
+``To unlock the full capabilities of the program, you need to install it on a permanent server.``
+
+
+
 # Adding a new task:
 o To add a new task, select the appropriate option in the
 menu or use hotkeys.
