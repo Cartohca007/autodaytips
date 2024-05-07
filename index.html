@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schedule App</title>
+</head>
+<body>
+    <h1>Add Task to Schedule</h1>
+    <form action="/addTask" method="POST">
+        <label for="task">Task:</label>
+        <input type="text" id="task" name="task" required><br><br>
+        <label for="time">Time:</label>
+        <input type="text" id="time" name="time" placeholder="HH:MM" required><br><br>
+        <input type="submit" value="Add Task">
+    </form>
+</body>
+</html>
